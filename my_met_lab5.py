@@ -61,6 +61,3 @@ def exp(x):
 
 if __name__ == "__main__":
 	print dihotomia(exp, -10.0, 10.0),gold(exp, -10.0, 10.0),oom(exp, -10.0, 10.0)
-	
-
-	
